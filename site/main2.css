@@ -1,0 +1,71 @@
+body
+{
+	background-image:url("http://res.cloudinary.com/dqvtaprpp/image/upload/v1463059647/papers.co-vo81-circle-vector-red-pink-pattern-36-3840x2400-4k-wallpaper_hkeupe.jpg");
+	background-repeat: no-repeat;
+	height:100%;
+	width: 100%;
+	background-size: cover;
+}
+
+header.container
+{
+	margin-top: 50px;
+}
+
+p
+{
+	margin-top: 10px;
+}
+
+.jumbotron
+{
+	background-color:white ;
+	margin-top: 20px;
+}
+
+nav
+{
+	padding-top:7px
+}
+
+h1
+{
+	padding-top: 7px;
+}
+
+
+figure img
+{
+	height: 200px;
+	width: 200px;
+	margin-top: 20px;
+
+}
+footer .row {
+  display: flex;
+  align-items: center;
+}
+
+footer .col-sm-8 {
+  display: flex;
+  justify-content: flex-end;
+}
+
+
+li
+{
+	list-style: none;
+	}
+
+ img
+{
+	width: 32px;
+	height:32px;
+	margin-right: 2px;
+}
+footer.container
+{
+margin-top: 200px;
+margin-bottom: 100px;
+}
+
